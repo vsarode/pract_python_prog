@@ -1,0 +1,7 @@
+def addition(n1, n2):
+	return n1+n2
+
+val1 = input("Enter number 1:")
+val2 = input("Enter number 2:")
+
+print addition(val1, val2)
